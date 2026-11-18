@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Deadzone Protocol</string>
+    <string name="nav_campaign">Campaign</string>
+    <string name="nav_coop_squad">Co-Op</string>
+    <string name="nav_arsenal">Arsenal</string>
+    <string name="deploy_mission">DEPLOY MISSION</string>
+    <string name="deploy_quarantine">DEPLOY CO-OP</string>
+    <string name="squad_mode_badge">LOCAL CO-OP SQUAD</string>
+    <string name="story_mode_badge">SINGLE PLAYER CAMPAIGN</string>
+    <string name="create_squad">NEW FREQ</string>
+    <string name="join_squad">JOIN FREQ</string>
+</resources>

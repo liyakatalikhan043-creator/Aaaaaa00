@@ -1,0 +1,6 @@
+{
+  "name": "Deadzone Protocol",
+  "description": "First-person 3D biohazard neon quarantine zombie shooter with real-time co-op squad defense, open-world city scavenging, and camp cooking survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
